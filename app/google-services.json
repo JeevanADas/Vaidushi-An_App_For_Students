@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670246118853",
+    "project_id": "dsu-app-cm",
+    "storage_bucket": "dsu-app-cm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670246118853:android:135b48c183d7f27faed7ac",
+        "android_client_info": {
+          "package_name": "com.example.dsuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670246118853-slavc6obrdi8l2vvc23nvd10olvk5f7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkrl5_SOjB9RUtptYx24KfZBYd3mvbw-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670246118853-slavc6obrdi8l2vvc23nvd10olvk5f7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

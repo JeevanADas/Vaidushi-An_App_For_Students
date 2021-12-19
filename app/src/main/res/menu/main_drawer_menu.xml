@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/notice_board_menu"
+            android:title="@string/notice_board"
+            android:icon="@drawable/ic_notice"/>
+        <item
+            android:id="@+id/time_table_menu"
+            android:title="@string/time_table"
+            android:icon="@drawable/ic_time_table" />
+        <item
+            android:id="@+id/attendance_menu"
+            android:title="@string/attendance"
+            android:icon="@drawable/ic_attendance"/>
+        <item
+            android:id="@+id/subject_resources_menu"
+            android:title="@string/subject_resources"
+            android:icon="@drawable/ic_subject_resources"/>
+        <item
+            android:id="@+id/academic_calendar_menu"
+            android:title="@string/academic_calendar"
+            android:icon="@drawable/ic_academic_calendar"/>
+        <item
+            android:id="@+id/faculty_details_menu"
+            android:title="@string/faculty_details"
+            android:icon="@drawable/ic_faculty_details"/>
+        <item
+            android:id="@+id/about_us_menu"
+            android:title="@string/about_us"
+            android:icon="@drawable/ic_about_us"/>
+        <item
+            android:id="@+id/logout_menu"
+            android:title="@string/logout"
+            android:icon="@drawable/ic_logout"/>
+    </group>
+</menu>
+
