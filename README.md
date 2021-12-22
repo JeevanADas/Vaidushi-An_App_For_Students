@@ -71,6 +71,7 @@ The proposed system is a handy application that can be used by all the users to 
 
 <img src="https://user-images.githubusercontent.com/71747053/146728938-22045efb-6f30-418c-8e77-ee80a4175cce.jpg" height="450"/>
 <img src="https://user-images.githubusercontent.com/71747053/146729061-279a4efb-833f-4b7e-8e39-4bd7e83db414.jpg" height="450"/>
+<img src="https://user-images.githubusercontent.com/71747053/147075717-36a3a8f5-bbb3-49e7-91c8-2406c57483ae.jpg" height="450"/>
 
 
 ### Academic Calendar:
