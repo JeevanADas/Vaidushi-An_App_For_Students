@@ -55,6 +55,8 @@ public class RegisterActivity extends AppCompatActivity {
                 checkField(email);
                 checkField(password);
                 checkField(phone);
+                checkField(usn);
+                checkField(yearOfStudy);
 
                 if(valid) {
                     // start the user registration process

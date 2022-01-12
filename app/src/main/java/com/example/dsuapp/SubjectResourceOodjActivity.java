@@ -8,12 +8,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.Query;
 
 public class SubjectResourceOodjActivity extends AppCompatActivity
 {
-
+    FloatingActionButton floatingActionButton;
     RecyclerView recview;
     OodjAdapter adapter;
 
@@ -23,6 +24,13 @@ public class SubjectResourceOodjActivity extends AppCompatActivity
         setContentView(R.layout.activity_subject_resource_oodj);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
+        floatingActionButton = findViewById(R.id.floatingActionButton2);
+        floatingActionButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
 
         recview = (RecyclerView) findViewById(R.id.recycleView);
         recview.setLayoutManager(new LinearLayoutManager(this));

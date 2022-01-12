@@ -16,12 +16,21 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:gravity="center"
             android:text="Subject Resources"
-            android:textColor="@color/white"
             android:textAlignment="center"
+            android:textColor="@color/white"
             android:textSize="20dp"
-            android:textStyle="bold"
-            android:gravity="center"/>
+            android:textStyle="bold" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floatingActionButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:tintMode="add"
+            app:backgroundTint="@color/black"
+            app:srcCompat="@drawable/ic_baseline_arrow_back_24" />
 
     </androidx.cardview.widget.CardView>
     <androidx.recyclerview.widget.RecyclerView

@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/drawable/ic_about_us.xml" value="0.1700657894736842" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/drawable/refresh_icon.xml" value="0.1700657894736842" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout-v28/activity_subject_resources.xml" value="0.253125" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_about_us.xml" value="0.12807377049180327" />
@@ -14,7 +15,8 @@
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_login.xml" value="0.253125" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_register.xml" value="0.10400000000000001" />
-        <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_subject_resource_oodj.xml" value="0.176" />
+        <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.152" />
+        <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_subject_resource_oodj.xml" value="0.2" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_subject_resources.xml" value="0.2" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_time_table.xml" value="0.136" />
         <entry key="..\:/Users/jeeva/Desktop/DSUApp/app/src/main/res/layout/activity_view_pdf.xml" value="0.1" />
