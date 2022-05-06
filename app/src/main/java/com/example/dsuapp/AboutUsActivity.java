@@ -7,6 +7,7 @@ import android.os.Bundle;
 import com.example.dsuapp.databinding.ActivityAboutUsBinding;
 import com.example.dsuapp.databinding.ActivityDashboardBinding;
 
+//  Starting of Activity
 public class AboutUsActivity extends DrawerBaseActivity {
 
     ActivityAboutUsBinding activityAboutUsBinding;
